@@ -6,4 +6,4 @@ I build reliable, stateful services that operate under real-world constraints �
 
 I’m open to backend, distributed systems, and applied AI engineering opportunities 🚀.
 
-📄 [Resume](https://raw.githubusercontent.com/wurb0/wurb0/main/Mustafa%20Saqib%20CV.pdf)
+📄 [Resume](https://raw.githubusercontent.com/mustafasaq/mustafasaq/blob/main/Mustafa%20Saqib%20CV.pdf)
